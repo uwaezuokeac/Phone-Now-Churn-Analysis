@@ -1,5 +1,5 @@
 # Phone-Now-Churn-Analysis
-![](Logo.png)
+![](Logo1.png)
 ## Introduction
 **Phone Now** is a telecom company and the industry is hard-earned, Phone Now does not want to loose their customers. The retention department is here to get customers back in case of termination. Currently, they get in touch after they have terminated which is reactionary and would like to know more about their customers.
 
@@ -9,7 +9,7 @@
 1.	Define proper KPI
 2.	Create a dashboard for the retention manager reflecting the KPIs
 3.	Explain findings and include suggestions of what needs to be changed
-4.	
+	
 #### KPI defined in this report are:
 1.	Total churn
 2.	Churn Rate
